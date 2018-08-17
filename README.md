@@ -1,2 +1,2 @@
-# Automata-cellular
-Automata cellular implemented with SDL
+# Cellular Automaton
+Cellular automaton implemented with SDL
