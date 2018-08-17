@@ -1,7 +1,7 @@
 CC=gcc    
 CFLAGS=-O3 
 LDFLAGS=-lSDL -lSDLmain
-EXEC=main
+EXEC=CA
 SRC=calc.c main.c sq_List.c 
 
 all: main
